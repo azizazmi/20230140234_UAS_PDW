@@ -5,6 +5,8 @@
 --Tampilan Katalog Mata Praktikum yang bisa diakses oleh publik
 ![image](https://github.com/user-attachments/assets/8e2c6da2-d052-4082-989e-0206d1b2bffb)
 
+--Tampilan Registrasi
+![image](https://github.com/user-attachments/assets/0f41e6c7-de09-4a22-8822-70d18857310f)
 
 --Tampilan Login
 ![image](https://github.com/user-attachments/assets/4d93540d-8a8d-4c12-818a-89afffd4bb25)
