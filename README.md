@@ -46,8 +46,12 @@
 3d. Notifikasi ketika akan menghapus modul
 ![image](https://github.com/user-attachments/assets/dd614d55-a6bb-455b-a315-c26dcaca80af)
 
-4. Tampilan halaman Laporan Masuk
-![image](https://github.com/user-attachments/assets/9029773b-bfe8-4292-b991-77c31deffb89)
+4a. Tampilan halaman Laporan Masuk
+![image](https://github.com/user-attachments/assets/0a8ca725-abcc-485a-8550-44485ddd8f4c)
+4b. Tampilan ketika Asisten melihat laporan Mahasiswa (memberikan nilai dan feedback)
+![image](https://github.com/user-attachments/assets/f298425e-72f2-473b-9d09-1430945a9406)
+4c. Tampilan halaman Laporan Masuk setelah Asisten menilai laporan
+![image](https://github.com/user-attachments/assets/f9b93441-3314-491c-aa42-9b3ab4bdd28b)
 
 5a. Tampilan halaman Kelola Pengguna
 ![image](https://github.com/user-attachments/assets/86789844-4a05-42cf-9c69-f2ee9b701a5a)
