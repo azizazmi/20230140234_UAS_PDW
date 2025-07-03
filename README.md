@@ -18,6 +18,8 @@
 ![image](https://github.com/user-attachments/assets/397c1559-d13f-4475-a92a-f0bcede16553)
 2b. Halaman detail praktikum
 ![image](https://github.com/user-attachments/assets/0051bf64-a67f-4934-a675-3289b4db61f6)
+2c. Tampilan ketika Mahasiswa mengupload laporan praktikum
+![image](https://github.com/user-attachments/assets/8c513ab3-bbd9-4826-8744-f08860212079)
 3. Tampilan halaman Cari Praktikum
 ![image](https://github.com/user-attachments/assets/077dfb95-792c-4472-9337-45f5ca4dd309)
 
