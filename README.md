@@ -8,6 +8,7 @@
 --Tampilan Registrasi
 ![image](https://github.com/user-attachments/assets/0f41e6c7-de09-4a22-8822-70d18857310f)
 ![image](https://github.com/user-attachments/assets/4642b01e-4448-41c0-8b69-1facad0ad157)
+-> Tampilan setelah berhasil registrasi langsung dialihkan ke tampilan login
 ![image](https://github.com/user-attachments/assets/724a5697-c650-49db-86b8-306a33550491)
 
 --Tampilan Login
