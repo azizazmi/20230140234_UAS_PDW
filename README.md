@@ -7,9 +7,12 @@
 
 --Tampilan Registrasi
 ![image](https://github.com/user-attachments/assets/0f41e6c7-de09-4a22-8822-70d18857310f)
+![image](https://github.com/user-attachments/assets/4642b01e-4448-41c0-8b69-1facad0ad157)
+![image](https://github.com/user-attachments/assets/724a5697-c650-49db-86b8-306a33550491)
 
 --Tampilan Login
 ![image](https://github.com/user-attachments/assets/5f2a7015-3c92-479d-afd6-28e5fb99b9ea)
+![image](https://github.com/user-attachments/assets/d55ef162-9b61-4063-ad01-5c0c67c4067c)
 
 --Tampilan UI untuk user role Mahasiswa
 1. Tampilan Dashboard Mahasiswa
